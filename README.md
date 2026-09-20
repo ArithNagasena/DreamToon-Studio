@@ -1,4 +1,4 @@
-# 🎨 Character Designer
+# 🎨 DreamToonStudio - Character Designer software
 
 A MERN app that lets designers create simple cartoon characters (animals, plants and humans) for educational games.
 
