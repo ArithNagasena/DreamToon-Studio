@@ -1,8 +1,7 @@
 # Character Designer
 
 A MERN application that lets designers at a small children's game company create simple
-cartoon characters — animals, plants and humans — for use in educational games.
-Built for **PUSL3122 HCI, Computer Graphics and Visualisation**.
+cartoon characters  animals, plants and humans for use in educational games.
 
 Every character is one parametric model rendered two ways: as **SVG in 2D** and as a
 **real-time rasterised three.js scene in 3D**. Both views read the same primitive list from
